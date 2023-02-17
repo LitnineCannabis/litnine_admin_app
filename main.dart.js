@@ -73334,7 +73334,7 @@ h=o
 m=A.a1(h)
 l=c.X(t.Pu)
 l.toString
-l.f.rT(A.awR(null,null,B.bR,null,B.aa,A.aC("Hubo un error: "+A.f(J.cX(m))+", StoreID: "+b+",  ---NUEVO  "+A.f(J.Fd(i.am())),null,null,null,null,null,null),B.dR,B.fT,null,null,null,null,null,null,null))
+l.f.rT(A.awR(null,null,B.bR,null,B.aa,A.aC("Hubo un error: "+A.f(J.cX(m))+", StoreID: "+b+",   "+A.f(J.Fd(i.am())),null,null,null,null,null,null),B.dR,B.fT,null,null,null,null,null,null,null))
 A.yC().o2(B.cn,A.f(m)+", ID Orden: "+b,null,null)
 q=A.oy(m,null,t.y)
 s=1
